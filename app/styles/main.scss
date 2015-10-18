@@ -101,48 +101,77 @@ body {
 }
 
 .celeb-more-info{
-    display: inline-block;
-    margin-top: 45px;
-    cursor: hand;
-    cursor: pointer;
+  display: inline-block;
+  cursor: hand;
+  cursor: pointer;
 
-    a{
-      color: #ccc;
-    }
+  a{
+    color: #ccc;
+  }
+}
+
+.list-group-item{
+  border-color: #eee;
+}
+
+.more-info{
+  min-height: 20px;
+  padding: 20px;
+  margin-top: 15px;
+  border-top: 1px dotted #e3e3e3;
+  border-radius: 0px;
+
+}
+
+.hidden-xs{
+  .img-thumbnail{
+    width: calc(100%/1.2);
+    margin-top: 10px;
   }
 
-  .list-group-item{
-    border-color: #eee;
+  .celeb-name{
+    padding-left: 20px;
   }
 
-  .more-info{
-    min-height: 20px;
-    padding: 20px;
-    margin-top: 15px;
-    /*margin-bottom: 5px;*/
-    /*background-color: #f5f5f5;
-    border: 1px solid #e3e3e3;*/
-    border-top: 1px dotted #e3e3e3;
-    border-radius: 0px;
-    
+}
+
+.boxer {
+  display: table;
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+
+
+  .box-row {
+   display: table-row;
   }
 
-  .hidden-xs.hidden-sm{
-    .img-thumbnail{
-      width: calc(100%/1.2);
-      margin-top: 10px;
-    }
-
-    .celeb-name{
-      padding-left: 20px;
-    }
-
+  .box {
+   display: table-cell;
+   text-align: left;
+   vertical-align: middle;
   }
 
-  .visible-xs.visible-sm{
-    .celeb-name{
-      margin-top: 25px;
-    }
+  .box-name{
+    padding: 10px;
+    padding-left: 20px;
+  }
+
+  .box-image{
+    width: 20%;
+    text-align: center;
+  }
+
+  .box-collapse{
+    width: 10%;
+    text-align: center;
+  }
+
+}
+
+
+  .visible-sm.visible-xs{
+    position: relative;
   }
 
 .banner-gradient{
