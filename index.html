@@ -1,4 +1,4 @@
-<!DOCTYPE html> <html class=no-js> <head> <meta charset=utf-8> <title>batsu_guests</title> <meta name=description content=""> <meta name=viewport content="width=device-width"> <link rel="shortcut icon" href=/d0c76ed5.favicon.ico> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel=stylesheet href=styles/91fd57cc.main.css> <script src=scripts/vendor/d4d78a91.modernizr.js></script> <link href="https://fonts.googleapis.com/css?family=Londrina+Outline|Ubuntu:400,500|Ubuntu+Condensed|Just+Me+Again+Down+Here" rel=stylesheet type=text/css>  <body> <!--[if lt IE 10]>
+<!DOCTYPE html> <html class=no-js> <head> <meta charset=utf-8> <title>batsu_guests</title> <meta name=description content=""> <meta name=viewport content="width=device-width"> <link rel="shortcut icon" href=/d0c76ed5.favicon.ico> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel=stylesheet href=styles/d234c0fd.main.css> <script src=scripts/vendor/d4d78a91.modernizr.js></script> <link href="https://fonts.googleapis.com/css?family=Londrina+Outline|Ubuntu:400,500|Ubuntu+Condensed|Just+Me+Again+Down+Here" rel=stylesheet type=text/css>  <body> <!--[if lt IE 10]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]--> <div class="visible-sm visible-xs"> <div> <img src=images/c6451b92.batsu_banner.jpg class=img-responsive alt="Guests of Batsu Games"> </div> <div class="container-fluid batsu-banner-header text-center"> <h1>Batsu Guests</h1> </div> </div> <div class="batsu-banner-header banner-gradient hidden-sm hidden-xs"> <div class="container batsu-banner"> <h1>Batsu Guests</h1> </div> </div> <!-- Main jumbotron for a primary marketing message or call to action --> <div class=jumbotron> <div class=container> <div> <h1>Welcome!</h1> <p>Watching the Batsu and paused to google for that cute celebrity chic? Been there, Done that! Here is a growing list of all the guests who have made an appearance. If you have more info to contribute, do ping and I'll update. </p> </div> </div> </div> <div class=toolbar-container> <div class=container> <h1> <div class=hidden-xs style=display:inline-block> Show Guests For : <!-- Single button --> </div> <div class="btn-group visible-xs-block visible-lg-inline-block visible-md-inline-block visible-sm-inline-block"> <button type=button class="btn btn-default dropdown-toggle" data-toggle=dropdown aria-haspopup=true aria-expanded=false id=js-game-selection-btn data-selection=all> All Batsu Games <span class=caret></span> </button> <ul class="dropdown-menu js-game-selection-menu"> <li> <a href=javascript:void(0); data-selection=all> All Batsu Games </a> </li> <li role=separator class=divider></li> <li> <a href=javascript:void(0); data-selection=hot_spring_inn> 2003 Hot Spring Inn </a> </li> <li> <a href=javascript:void(0); data-selection=yugawara> 2004 Yugawara </a> </li> <li> <a href=javascript:void(0); data-selection=high_school> 2005 High School </a> </li> <li> <a href=javascript:void(0); data-selection=police_station> 2006 Police Station </a> </li> <li> <a href=javascript:void(0); data-selection=hospital> 2007 Hospital </a> </li> <li> <a href=javascript:void(0); data-selection=newspaper_agency> 2008 Newspaper Agency </a> </li> <li> <a href=javascript:void(0); data-selection=hotel_employee> 2009 Hotel Employee </a> </li> <li> <a href=javascript:void(0); data-selection=spy_school> 2010 Spy School </a> </li> <li> <a href=javascript:void(0); data-selection=airport> 2011 Airport </a> </li> <li> <a href=javascript:void(0); data-selection=enthusiastic_teachers> 2012 Enthusiastic Teachers </a> </li> <li> <a href=javascript:void(0); data-selection=earth_defense_force> 2013 Earth Defense Force </a> </li> <li> <a href=javascript:void(0); data-selection=prison> 2014 Prison </a> </li> </ul> <div class="clearfix visible-xs"></div> </div> </h1> </div> </div> <div class="container user-list-container"> <ul class=list-group id=artist-ul> <li class="list-group-item title"> <span id=artist-li-title> All Batsu Games </span> <span id=artist-count class="celeb-count pull-right">25 Guests</span> </li> </ul> <hr> <footer> <p>&copy; Batsu Guests</p> </footer> </div> <!-- /container --> <script src=scripts/5e682d0b.vendor.js></script> <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. --> <script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
       function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -7,28 +7,31 @@
       r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
       ga('create','UA-XXXXX-X');ga('send','pageview');</script> <script src=scripts/d16b7bb9.main.js></script> <!-- handlebar template --> <script id=user-template type=text/x-handlebars-template>{{#artist_lookup}}
             <li class="list-group-item text-left artist-li"> 
-              <div class="visible-xs visible-sm">
-                <div class="col-xs-3">
-                  <img class="img-thumbnail img-circle" src="{{image_url}}">
-                </div>
-                <div class="col-xs-8">
-                  <label class="celeb-name"> {{artist_name}} </label> 
-                </div>
-                <div class="col-xs-1">
-                  <span class="celeb-more-info">
-                     <a  type="button" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="collapseExample" >
-                      <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-                    </a>
-                  </span>
-                </div>
-                <div class="clearfix"></div>
+              <div class="visible-xs">
+              	<div class="boxer">
+					<div class="box-row">
+						<div class="box box-image">
+                  			<img class="img-thumbnail img-circle" src="{{image_url}}">
+						</div>
+						<div class="box box-name">
+							<label class="celeb-name"> {{artist_name}} </label> 
+						</div>
+						<div class="box box-collapse">
+							<span class="celeb-more-info">
+		                    	<a  type="button" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="collapseExample" >
+		                    		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+		                    	</a>
+		                  	</span>
+						</div>
+					</div>
+				</div>
                 <div class="collapse" id="collapse_{{artist_id}}">
                   <div class="more-info">
                     {{{ markdownToHtml artist_desc}}}
                   </div>
                 </div>
               </div>
-              <div class="hidden-xs hidden-sm">
+              <div class="hidden-xs">
                 <div class="col-xs-2 text-center">
                   <img class="img-thumbnail img-circle" src="{{image_url}}">
                   
