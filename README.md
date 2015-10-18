@@ -1,6 +1,7 @@
 Welcome. You love GNT? I do too. However it was a pain to pause the video constantly to google the celebrities as they appear. 
 So I set out to build up a list all in one place. The idea is to just have a line or two of some cool info on the celebrity and provide link to find out more. The list is incomplete, If you wish to help. Let me know. 
 
+Click to view --> https://fuggfuggfugg.github.io/batsu_guestlist/
 
 As for the coding bit: 
 * I am using a yeoman webapp and built on top of it. 
