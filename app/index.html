@@ -174,71 +174,69 @@
     <!-- endbuild -->
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-   <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <script>
+	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	    	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	    	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-68986843-1', 'auto');
-	  ga('send', 'pageview');
-	</script>
+	    ga('create', 'UA-68986843-1', 'auto');
+	    ga('send', 'pageview');
+    </script>
 
-        <!-- build:js({app,.tmp}) scripts/main.js -->
-        <script src="scripts/defiant.js"></script>
-        <script type="text/javascript" language="javascript" src="json_lookup/artist_lookup.json"></script> 
-        <script type="text/javascript" language="javascript" src="json_lookup/batsu.json"></script> 
+    <!-- build:js({app,.tmp}) scripts/main.js -->
+    <script src="scripts/defiant.js"></script>
+    <script type="text/javascript" language="javascript" src="json_lookup/artist_lookup.json"></script> 
+    <script type="text/javascript" language="javascript" src="json_lookup/batsu.json"></script> 
 
 
-        <script src="scripts/main.js"></script>
-        <!-- endbuild -->
+    <script src="scripts/main.js"></script>
+    <!-- endbuild -->
 
-        <!-- handlebar template -->
-        <script id="user-template" type="text/x-handlebars-template">
-          {{#artist_lookup}}
-            <li class="list-group-item text-left artist-li"> 
-              <div class="visible-xs">
-              	<div class="boxer">
-					<div class="box-row">
-						<div class="box box-image">
-                  			<img class="img-thumbnail img-circle" src="{{image_url}}">
-						</div>
-						<div class="box box-name">
-							<label class="celeb-name"> {{artist_name}} </label> 
-						</div>
-						<div class="box box-collapse">
-							<span class="celeb-more-info">
-		                    	<a  type="button" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="collapseExample" >
-		                    		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-		                    	</a>
-		                  	</span>
-						</div>
+    <!-- handlebar template -->
+    <script id="user-template" type="text/x-handlebars-template">
+      {{#artist_lookup}}
+        <li class="list-group-item text-left artist-li"> 
+          <div class="visible-xs">
+          	<div class="boxer">
+				<div class="box-row">
+					<div class="box box-image">
+              			<img class="img-thumbnail img-circle" src="{{image_url}}">
+					</div>
+					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+						<label class="celeb-name"> {{artist_name}} </label> 
+					</div>
+					<div class="box box-collapse" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+						<span class="celeb-more-info">
+	                    	<a  type="button" >
+	                    		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+	                    	</a>
+	                  	</span>
 					</div>
 				</div>
-                <div class="collapse" id="collapse_{{artist_id}}">
-                  <div class="more-info">
-                    {{{ markdownToHtml artist_desc}}}
-                  </div>
-                </div>
+			</div>
+            <div class="collapse" id="collapse_{{artist_id}}">
+              <div class="more-info">
+                {{{ markdownToHtml artist_desc}}}
               </div>
-              <div class="hidden-xs">
-                <div class="col-xs-2 text-center">
-                  <img class="img-thumbnail img-circle" src="{{image_url}}">
-                  
-                </div>
-                <div class="col-xs-10">
-                  <div>
-                    <label class="celeb-name"> {{artist_name}} </label>   
-                  </div>
-                  <div class="more-info">
-                    {{{ markdownToHtml artist_desc}}}
-                  </div>
-                  
-                </div>
-                <div class="clearfix"></div>
+            </div>
+          </div>
+          <div class="hidden-xs">
+            <div class="col-xs-2 text-center">
+              <img class="img-thumbnail img-circle" src="{{image_url}}">
+            </div>
+            <div class="col-xs-10">
+              <div>
+                <label class="celeb-name"> {{artist_name}} </label>   
               </div>
-          </li>
-          {{/artist_lookup}}
-        </script>
+              <div class="more-info">
+                {{{ markdownToHtml artist_desc}}}
+              </div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+      </li>
+      {{/artist_lookup}}
+    </script>
 </body>
 </html>
