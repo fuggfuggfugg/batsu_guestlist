@@ -43,3 +43,6 @@ Wiki, google search
 http://echie7.blogspot.com/p/airport-batsu-subbed.html
 http://echie7.blogspot.com/2012/02/airport-151-180-people-and-item.html
 http://mygakiblog.blogspot.com/
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exintro=&explaintext=&inprop=url&titles=Masatoshi_Hamada
+https://stackoverflow.com/questions/8555320/is-there-a-clean-wikipedia-api-just-for-retrieve-content-summary
+https://en.wikipedia.org/wiki/Special:ApiSandbox#action=query&prop=extracts|info&format=json&exintro=&explaintext=&inprop=url&titles=Masatoshi_Hamada
