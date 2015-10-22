@@ -3,1731 +3,1731 @@ var artists_lookup =  {
     {
       "artist_id": "Afra",
       "artist_name": "Afra",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Agnes_Chan",
       "artist_name": "Agnes Chan",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "https://en.wikipedia.org/wiki/Agnes_Chan",
+      "artist_desc": "Born in Hong Kong. A pop singer, a \"foreign television personality\" (gaijin tarento), a Doctor of Education, a professor at Japanese universities, an essayist, and a novelist. Since 1988, Chan has been a UNICEF Goodwill Ambassador and also supports the Japan Committee for UNICEF, a private corporation unaffiliated with UNICEF. She is a [popstar with a PhD](https://alumni.stanford.edu/get/page/magazine/article/?article_id=41025). Her [engrish is good](https://www.youtube.com/watch?v=JKAvyhzHJWY) too.",
+      "image_url": "https://i.imgur.com/vW1LJ4t.png"
     },
     {
       "artist_id": "Ai_Haruna",
       "artist_name": "Ai Haruna",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "https://en.wikipedia.org/wiki/Ai_Haruna",
+      "artist_desc": "Ai Haruna is a Japanese transsexual TV personality and singer. In October 2009, Haruna won the \"Miss International Queen 2009\" transsexual beauty pageant held in Pattaya, Thailand, becoming the first Japanese contestant to win the title. Her previous name was Kenji Onishi. She appears as one of the members of the \"ONeal France Aviation\" team in the Airport Batsu. This is apparently her [old blog](http://ameblo.jp/haruna-ai).",
+      "image_url": "https://i.imgur.com/4wnpYxM.png"
     },
     {
       "artist_id": "Akira_Nishikino",
       "artist_name": "Akira Nishikino",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ami_Kikuchi",
       "artist_name": "Ami Kikuchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Animal_Hamaguchi",
       "artist_name": "Animal Hamaguchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Anna_Tsuchiya",
       "artist_name": "Anna Tsuchiya",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Arthur_Kuroda",
       "artist_name": "Arthur Kuroda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Azusa_Babazono",
       "artist_name": "Azusa Babazono",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Barbie",
       "artist_name": "Barbie",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Bibari_Maeda",
       "artist_name": "Bibari Maeda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Bobby_Ologun",
       "artist_name": "Bobby Ologun",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Chad_Mullane",
       "artist_name": "Chad Mullane",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Charlie_Hama",
       "artist_name": "Charlie Hama",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Chiaki",
       "artist_name": "Chiaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Chiemi_Hori",
       "artist_name": "Chiemi Hori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Chihara_Junior",
       "artist_name": "Chihara Junior",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Chiyoko_Asami",
       "artist_name": "Chiyoko Asami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Claudia_Umemiya",
       "artist_name": "Claudia Umemiya",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Daikichi_Hakata",
       "artist_name": "Daikichi Hakata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "https://translate.google.com/translate?hl=en&sl=ja&u=https://ja.wikipedia.org/wiki/%25E5%258D%259A%25E5%25A4%259A%25E5%25A4%25A7%25E5%2590%2589&prev=search",
+      "artist_desc": "**Born:** March 10, 1971 (age 44), Kobe, Hyōgo Prefecture, Japan. \\n\\n**TV shows:** Night Shuffle",
+      "image_url": ""
     },
     {
       "artist_id": "Dancho",
       "artist_name": "Dancho",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Dewi_Sukarno",
       "artist_name": "Dewi Sukarno",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Egashira",
       "artist_name": "Egashira",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Eiji_Bando",
       "artist_name": "Eiji Bando",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Eiji_Kotoge",
       "artist_name": "Eiji Kotoge",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Eikichi_Yazawa",
       "artist_name": "Eikichi Yazawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Eiko_Kano",
       "artist_name": "Eiko Kano",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Erika_Tokushima",
       "artist_name": "Erika Tokushima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Etsuko_Ichihara",
       "artist_name": "Etsuko Ichihara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Fumiya_Fujii",
       "artist_name": "Fumiya Fujii",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Gajiro_Sato",
       "artist_name": "Gajiro Sato",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Gekidan_Hitori",
       "artist_name": "Gekidan Hitori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Genichiro_Tenryu",
       "artist_name": "Genichiro Tenryu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Gin_Maeda",
       "artist_name": "Gin Maeda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Girolamo_Panzetta",
       "artist_name": "Girolamo Panzetta",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Gitan_Otsuru",
       "artist_name": "Gitan Otsuru",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Goro_Ibuki",
       "artist_name": "Goro Ibuki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hakuryu",
       "artist_name": "Hakuryu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Haruka_Minowa",
       "artist_name": "Haruka Minowa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Haruka_Unabara",
       "artist_name": "Haruka Unabara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Haruna_Kondo",
       "artist_name": "Haruna Kondo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hatsunori_Hasegawa",
       "artist_name": "Hatsunori Hasegawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Helen_Nishikawa",
       "artist_name": "Helen Nishikawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hidetoshi_Hoshida",
       "artist_name": "Hidetoshi Hoshida",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiro",
       "artist_name": "Hiro",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroaki_Ogi",
       "artist_name": "Hiroaki Ogi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroiki_Ariyoshi",
       "artist_name": "Hiroiki Ariyoshi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroki_Konno",
       "artist_name": "Hiroki Konno",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroki_Matsukata",
       "artist_name": "Hiroki Matsukata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroshi_Fujioka",
       "artist_name": "Hiroshi Fujioka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroshi_Fujiwara",
       "artist_name": "Hiroshi Fujiwara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroshi_Shinagawa",
       "artist_name": "Hiroshi Shinagawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hiroyuki_Miyasako",
       "artist_name": "Hiroyuki Miyasako",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hisako_Kuroi",
       "artist_name": "Hisako Kuroi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hitoshi_Matsumoto",
       "artist_name": "Hitoshi Matsumoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hitoshi_Ozawa",
       "artist_name": "Hitoshi Ozawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Hosei_Yamasaki",
       "artist_name": "Hosei Yamasaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ichiro_Ito",
       "artist_name": "Ichiro Ito",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ichiro_Mizuki",
       "artist_name": "Ichiro Mizuki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ijiri_Okada",
       "artist_name": "Ijiri Okada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ikki_Sawamura",
       "artist_name": "Ikki Sawamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Itsuji_Itao",
       "artist_name": "Itsuji Itao",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Jimmy_Ohnishi",
       "artist_name": "Jimmy Ohnishi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Jimon_Terakado",
       "artist_name": "Jimon Terakado",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Jin_Nakayama",
       "artist_name": "Jin Nakayama",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "John_B_Chopper",
       "artist_name": "John B Chopper",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Juichi_Wakisaka",
       "artist_name": "Juichi Wakisaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Junichi_Komoto",
       "artist_name": "Junichi Komoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Junji_Takada",
       "artist_name": "Junji Takada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Junpei_Mizobata",
       "artist_name": "Junpei Mizobata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kaba_Chan",
       "artist_name": "Kaba Chan",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kaho_Nanami",
       "artist_name": "Kaho Nanami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kana_Sakagami",
       "artist_name": "Kana Sakagami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Katsuhiro_Higo",
       "artist_name": "Katsuhiro Higo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazue_Ito",
       "artist_name": "Kazue Ito",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazuhiro_Fujiwara",
       "artist_name": "Kazuhiro Fujiwara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazuko_Kurosawa",
       "artist_name": "Kazuko Kurosawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazumi_Morohoshi",
       "artist_name": "Kazumi Morohoshi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazunori_Iwasaki",
       "artist_name": "Kazunori Iwasaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazuo_Umezu",
       "artist_name": "Kazuo Umezu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kazuyoshi_Saito",
       "artist_name": "Kazuyoshi Saito",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Keiko_Takahashi",
       "artist_name": "Keiko Takahashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Keisuke_Okada",
       "artist_name": "Keisuke Okada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Keisuke_Ulful",
       "artist_name": "Keisuke Ulful",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Keita_Uehara",
       "artist_name": "Keita Uehara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ken_Horiuchi",
       "artist_name": "Ken Horiuchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ken_Yahagi",
       "artist_name": "Ken Yahagi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kendo_Kobayashi",
       "artist_name": "Kendo Kobayashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kenji_Obayashi",
       "artist_name": "Kenji Obayashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kenji_Suga",
       "artist_name": "Kenji Suga",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kenji_Tada",
       "artist_name": "Kenji Tada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kenji_Tamura",
       "artist_name": "Kenji Tamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kenta_Maeda",
       "artist_name": "Kenta Maeda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kiichi_Naoe",
       "artist_name": "Kiichi Naoe",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kimiko_Ikegami",
       "artist_name": "Kimiko Ikegami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kiyomi_Endo",
       "artist_name": "Kiyomi Endo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kiyoshi_Hayashishita",
       "artist_name": "Kiyoshi Hayashishita",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kiyoshi_Nakajo",
       "artist_name": "Kiyoshi Nakajo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Koichi_Hamada",
       "artist_name": "Koichi Hamada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Koichi_Maeshima",
       "artist_name": "Koichi Maeshima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kojiro_Ueda",
       "artist_name": "Kojiro Ueda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Korokke",
       "artist_name": "Korokke",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kumiko_Mori",
       "artist_name": "Kumiko Mori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kunihiro_Kawashima",
       "artist_name": "Kunihiro Kawashima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kunikazu_Katsumata",
       "artist_name": "Kunikazu Katsumata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kurisu_Matsumura",
       "artist_name": "Kurisu Matsumura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kurochan",
       "artist_name": "Kurochan",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Kyoko_Kano",
       "artist_name": "Kyoko Kano",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "LiLiCo",
       "artist_name": "LiLiCo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Lion_Ohnishi",
       "artist_name": "Lion Ohnishi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Louis_Kurihara",
       "artist_name": "Louis Kurihara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Maasa_Takahashi",
       "artist_name": "Maasa Takahashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mao_Daichi",
       "artist_name": "Mao Daichi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mari_Henmi",
       "artist_name": "Mari Henmi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masahiro_Chono",
       "artist_name": "Masahiro Chono",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masahiro_Tanaka",
       "artist_name": "Masahiro Tanaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masako_Mori",
       "artist_name": "Masako Mori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masami_Hisamoto",
       "artist_name": "Masami Hisamoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masashi_Hironaka",
       "artist_name": "Masashi Hironaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masatoshi_Hamada",
       "artist_name": "Masatoshi Hamada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masatoshi_Nakamura",
       "artist_name": "Masatoshi Nakamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masayasu_Wakabayashi",
       "artist_name": "Masayasu Wakabayashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Masumi_Yagi",
       "artist_name": "Masumi Yagi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Matazo_Mimata",
       "artist_name": "Matazo Mimata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Matsuko_Deluxe",
       "artist_name": "Matsuko Deluxe",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "https://en.wikipedia.org/wiki/Matsuko_Deluxe",
+      "artist_desc": "Matsuko Deluxe, (マツコ・デラックス Matsuko Derakkusu born October 26 1972 in Chiba Prefecture) is an obese transvestite Japanese columnist essayist and TV personality known for her cross-dressing stage persona. In 2010 she became known for her feud with many of Japan's female television announcers over their perceived image. The only image of [Matsuko without makeup](https://i.imgur.com/ORBGyzJ.png) I could find on the interweb.  [The truth about Matsuko](https://www.youtube.com/watch?v=q3WEUq1I4FQ)",
+      "image_url": "http://i.imgur.com/7chtVfG.jpg?1"
     },
     {
       "artist_id": "Mayo_Kawasaki",
       "artist_name": "Mayo Kawasaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mihoko_Masunaga",
       "artist_name": "Mihoko Masunaga",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mika_Kano",
       "artist_name": "Mika Kano",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mikihisa_Azuma",
       "artist_name": "Mikihisa Azuma",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mio_Takagi",
       "artist_name": "Mio Takagi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mitsuhide_Fukimoto",
       "artist_name": "Mitsuhide Fukimoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mitsuru_Yaku",
       "artist_name": "Mitsuru Yaku",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Miyuki_Oshima",
       "artist_name": "Miyuki Oshima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Momiji_Yamamura",
       "artist_name": "Momiji Yamamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mona_Yamamoto",
       "artist_name": "Mona Yamamoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Mr_Maric",
       "artist_name": "Mr Maric",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Muga_Tsukaji",
       "artist_name": "Muga Tsukaji",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nagisa_Katahira",
       "artist_name": "Nagisa Katahira",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Naoki_Ogi",
       "artist_name": "Naoki Ogi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Naoki_Tanaka",
       "artist_name": "Naoki Tanaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Naomi_Watanabe",
       "artist_name": "Naomi Watanabe",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Naoto_Eguchi",
       "artist_name": "Naoto Eguchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Naoto_Takenaka",
       "artist_name": "Naoto Takenaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Natsumi_Ogawa",
       "artist_name": "Natsumi Ogawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nezumi_Sempai",
       "artist_name": "Nezumi Sempai",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nobuhiro_Ozawa",
       "artist_name": "Nobuhiro Ozawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nobuyoshi_Kuwano",
       "artist_name": "Nobuyoshi Kuwano",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nonoka_Ono",
       "artist_name": "Nonoka Ono",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Nozomu_Iwao",
       "artist_name": "Nozomu Iwao",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Oniyakko_Tsubaki",
       "artist_name": "Oniyakko Tsubaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Osamu_Shitara",
       "artist_name": "Osamu Shitara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Paradise_Nakagawa",
       "artist_name": "Paradise Nakagawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Razor_Ramon_HG",
       "artist_name": "Razor Ramon HG",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Reiji_Nakagawake",
       "artist_name": "Reiji Nakagawake",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Rie_Shibata",
       "artist_name": "Rie Shibata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Riki_Choshu",
       "artist_name": "Riki Choshu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Riki_Takeuchi",
       "artist_name": "Riki Takeuchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Rino_Katase",
       "artist_name": "Rino Katase",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ritsuko_Tanaka",
       "artist_name": "Ritsuko Tanaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Rola",
       "artist_name": "Rola",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryo_Fukawa",
       "artist_name": "Ryo Fukawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryo_Kinomoto",
       "artist_name": "Ryo Kinomoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryo_Tamura",
       "artist_name": "Ryo Tamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryoko_Sakaguchi",
       "artist_name": "Ryoko Sakaguchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryuhei_Ueshima",
       "artist_name": "Ryuhei Ueshima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Ryuichi_Kosugi",
       "artist_name": "Ryuichi Kosugi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Sando_Katsura",
       "artist_name": "Sando Katsura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Sankon_Junior",
       "artist_name": "Sankon Junior",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Satoshi_Inoue",
       "artist_name": "Satoshi Inoue",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Sawa_Suzuki",
       "artist_name": "Sawa Suzuki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Seiji_Chihara",
       "artist_name": "Seiji Chihara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Seiken_Takamisakari",
       "artist_name": "Seiken Takamisakari",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Seitaro_Mukai",
       "artist_name": "Seitaro Mukai",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shigenori_Yamashita",
       "artist_name": "Shigenori Yamashita",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shigeo_Takahashi",
       "artist_name": "Shigeo Takahashi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shigeru_Ishiba",
       "artist_name": "Shigeru Ishiba",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shigeru_Izumiya",
       "artist_name": "Shigeru Izumiya",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shintaro_Mori",
       "artist_name": "Shintaro Mori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shinya_Ohwada",
       "artist_name": "Shinya Ohwada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shinya_Yamanaka",
       "artist_name": "Shinya Yamanaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shizuyo_Yamasaki",
       "artist_name": "Shizuyo Yamasaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shohei_Shofukutei",
       "artist_name": "Shohei Shofukutei",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shoji_Murakami",
       "artist_name": "Shoji Murakami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Shozo_Endo",
       "artist_name": "Shozo Endo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Sie_Kohinata",
       "artist_name": "Sie Kohinata",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Soichiro_Tahara",
       "artist_name": "Soichiro Tahara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Suidobashi_Hakase",
       "artist_name": "Suidobashi Hakase",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Sujitaro_Tamabukuro",
       "artist_name": "Sujitaro Tamabukuro",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takafumi_Inomoto",
       "artist_name": "Takafumi Inomoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takanori_Takeyama",
       "artist_name": "Takanori Takeyama",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takashi_Niigaki",
       "artist_name": "Takashi Niigaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takayuki_Haranishi",
       "artist_name": "Takayuki Haranishi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takayuki_Kinoshita",
       "artist_name": "Takayuki Kinoshita",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takehiro_Kimoto",
       "artist_name": "Takehiro Kimoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Takushi_Tanaka",
       "artist_name": "Takushi Tanaka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tamao_Nakamura",
       "artist_name": "Tamao Nakamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Taro_Kida",
       "artist_name": "Taro Kida",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Taro_Yabe",
       "artist_name": "Taro Yabe",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tatsuo_Umemiya",
       "artist_name": "Tatsuo Umemiya",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Terukazu_Kikuchi",
       "artist_name": "Terukazu Kikuchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tetsuro_Degawa",
       "artist_name": "Tetsuro Degawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tetsuya_Nakamoto",
       "artist_name": "Tetsuya Nakamoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tetsuya_Takeda",
       "artist_name": "Tetsuya Takeda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tokuma_Nishioka",
       "artist_name": "Tokuma Nishioka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomio_Suga",
       "artist_name": "Tomio Suga",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomio_Umezawa",
       "artist_name": "Tomio Umezawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomochika",
       "artist_name": "Tomochika",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomoko_Murakami",
       "artist_name": "Tomoko Murakami",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomomitsu_Yamaguchi",
       "artist_name": "Tomomitsu Yamaguchi",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomonori_Jinnai",
       "artist_name": "Tomonori Jinnai",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tomoyuki_Ishizawa",
       "artist_name": "Tomoyuki Ishizawa",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Torata_Nanbu",
       "artist_name": "Torata Nanbu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tortoise_Matsumoto",
       "artist_name": "Tortoise Matsumoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toru_Hotohara",
       "artist_name": "Toru Hotohara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshiaki_Hatakeyama",
       "artist_name": "Toshiaki Hatakeyama",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshiaki_Kasuga",
       "artist_name": "Toshiaki Kasuga",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshifumi_Fujimoto",
       "artist_name": "Toshifumi Fujimoto",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshihide_Endo",
       "artist_name": "Toshihide Endo",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshihide_Saito",
       "artist_name": "Toshihide Saito",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshihiko_Tahara",
       "artist_name": "Toshihiko Tahara",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Toshiyuki_Nishida",
       "artist_name": "Toshiyuki Nishida",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tsune",
       "artist_name": "Tsune",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tsunku",
       "artist_name": "Tsunku",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tsutomu_Sekine",
       "artist_name": "Tsutomu Sekine",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Tsuyoshi_Nakagawake",
       "artist_name": "Tsuyoshi Nakagawake",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yasoshima",
       "artist_name": "Yasoshima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yinling_of_Joytoy",
       "artist_name": "Yinling of Joytoy",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoichi_Nishimori",
       "artist_name": "Yoichi Nishimori",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoichi_Nukumizu",
       "artist_name": "Yoichi Nukumizu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoko_Gushiken",
       "artist_name": "Yoko Gushiken",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yonesuke",
       "artist_name": "Yonesuke",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshi_Yamada",
       "artist_name": "Yoshi Yamada",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshiaki_Yamane",
       "artist_name": "Yoshiaki Yamane",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshikazu_Ebisu",
       "artist_name": "Yoshikazu Ebisu",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshimi_Iwasaki",
       "artist_name": "Yoshimi Iwasaki",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshinari_Fukushima",
       "artist_name": "Yoshinari Fukushima",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshinobu_Nakamura",
       "artist_name": "Yoshinobu Nakamura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yoshinori_Monta",
       "artist_name": "Yoshinori Monta",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "You",
       "artist_name": "You",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yuichi_Kimura",
       "artist_name": "Yuichi Kimura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yuji_Ayabe",
       "artist_name": "Yuji Ayabe",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yuki_Himura",
       "artist_name": "Yuki Himura",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yuki_Meguro",
       "artist_name": "Yuki Meguro",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yukiji_Asaoka",
       "artist_name": "Yukiji Asaoka",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yusuke_Noda",
       "artist_name": "Yusuke Noda",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yutaro",
       "artist_name": "Yutaro",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     },
     {
       "artist_id": "Yuya_Uchida",
       "artist_name": "Yuya Uchida",
-      "artist_wiki_info": "Wiki link here",
-      "artist_desc": "a tiny script to convert [markdown](http://en.wikipedia.org/wiki/Markdown) to [HTML](http://en.wikipedia.org/wiki/HTML) in under 5kb and under [MIT License](http://opensource.org/licenses/MIT).  ",
-      "image_url": "https://i.imgur.com/nKJJcXE.png"
+      "artist_wiki_info": "",
+      "artist_desc": "",
+      "image_url": ""
     }
   ]
 }
