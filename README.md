@@ -35,3 +35,11 @@ Pending Stuff:
 * Update the lookup spreadsheet with description of each celebrity, image link, and link to their twitter/imdb or wikia. 
 * Some series are empty, I'll have to go through remaining videos and manually update. 
 * Add bootstrap scrollspy for easier navigation. 
+
+
+****
+Data Compiled from 
+Wiki, google search
+http://echie7.blogspot.com/p/airport-batsu-subbed.html
+http://echie7.blogspot.com/2012/02/airport-151-180-people-and-item.html
+http://mygakiblog.blogspot.com/
