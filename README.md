@@ -31,7 +31,7 @@ Process so far:
    * When a series is selected from the dropdown, I then use defiant to perform quick search and build a list and re-render. Simple. 
    
 Pending Stuff: 
-* Maintain a full album of all celebrities. 
+* Maintain a full Imgur album of all celebrities. 
 * Update the lookup spreadsheet with description of each celebrity, image link, and link to their twitter/imdb or wikia. 
 * Some series are empty, I'll have to go through remaining videos and manually update. 
 * Add bootstrap scrollspy for easier navigation. 
