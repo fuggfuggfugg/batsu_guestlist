@@ -10,9 +10,7 @@ $(function(){
 	// update count and header name
 	// draw all artist
 	reloadList = function(){
-		console.log("artists_wiki_lookup");
-		console.log(artists_wiki_lookup);
-
+		$(".loading").show();
 		btn =  $("#js-game-selection-btn");
 		loadSelectionOption = btn.attr("data-selection");
 
@@ -65,7 +63,6 @@ $(function(){
 
 	// handle dropdown changed	
 	$(".js-game-selection-menu li a").on("click", function(e){
-
 		// currentTarget = $(e.currentTarget);
 		btn =  $("#js-game-selection-btn");
 		btn.html($(this).text() + ' <span class="caret"></span>');
@@ -74,34 +71,55 @@ $(function(){
 
 		// reload-list
 		reloadList();
-
 	});
 
-	Handlebars.registerHelper("markdownToHtml", function(text) {
+	Handlebars.registerHelper("markdownToHtml", function(text, artist_wiki_id) {
+		wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&pageids="
+
+		if (parseInt(artist_wiki_id) > 0 ){
+			// first find in lookup, if found cool else do a get and push it
+			$.ajax({
+				url:wiki_lookup + artist_wiki_id,
+				dataType: 'jsonp',
+				success: function(results){
+					// update textbox
+					el = $("#"+artist_wiki_id);
+					el.find(".loading").hide();
+					wikiText = results.query.pages[artist_wiki_id].extract
+					wikiAnchor = $("<a href='" + results.query.pages[artist_wiki_id].fullurl + "'>Wikipedia.</a>")
+					el.append(wikiText);
+					el.append(wikiAnchor);
+				}
+			});
+		}
+		
 		return markdown.toHTML(text);		
+		
+
 	});
 	
 
-	function ajax1(){
-		wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&titles=";
-		//Masatoshi_Hamada%7CAgnes_Chan
-		buildString = JSON.search(artists_lookup_snapshot, "//artist_wiki_info").filter(Boolean).join("%7C");
+	// function ajax1(){
+	// 	wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&titles=";
+	// 	//Masatoshi_Hamada%7CAgnes_Chan
+	// 	buildString = JSON.search(artists_lookup_snapshot, "//artist_wiki_info").filter(Boolean).join("%7C");
 
-		wiki_lookup += buildString;
+	// 	wiki_lookup += buildString;
 
-		return $.ajax({
-			url:wiki_lookup,
-			dataType: 'jsonp'
-		});
-	}
+	// 	return $.ajax({
+	// 		url:wiki_lookup,
+	// 		dataType: 'jsonp'
+	// 	});
+	// }
 
-	$.when( ajax1()).done(function(a1){
-		artists_wiki_lookup = Defiant.getSnapshot( a1.query.pages);
-		// first time load
-		reloadList();
-	});
+	// $.when( ajax1()).done(function(a1){
+	// 	artists_wiki_lookup = Defiant.getSnapshot( a1.query.pages);
+	// 	// first time load
+	// 	reloadList();
+	// });
 
-	
+	// first time load
+	reloadList();	
 
 
 

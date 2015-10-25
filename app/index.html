@@ -202,10 +202,10 @@
       				<div class="box-row">
       					<div class="box box-image">
       						{{#if image_url}}
-                    				<img class="img-thumbnail img-circle" src="{{image_url}}">
-                    			{{else}}
-                    				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
-                    			{{/if}}
+            				<img class="img-thumbnail img-circle" src="{{image_url}}">
+            			{{else}}
+            				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
+            			{{/if}}
       					</div>
       					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
       						<label class="celeb-name"> {{artist_name}} </label> 
@@ -221,7 +221,15 @@
       			</div>
             <div class="collapse" id="collapse_{{artist_id}}">
               <div class="more-info">
-                {{{ markdownToHtml artist_desc}}}
+                <span class="wikipedia-info" id="{{artist_wiki_info}}">
+                  <div class="loading">
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                  </div>
+                </span>
+                {{{ markdownToHtml artist_desc artist_wiki_info}}}
               </div>
             </div>
           </div>
@@ -238,7 +246,15 @@
                 <label class="celeb-name"> {{artist_name}} </label>   
               </div>
               <div class="more-info">
-                {{{ markdownToHtml artist_desc}}}
+                <span class="wikipedia-info" id="{{artist_wiki_info}}">
+                  <div class="loading">
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                    <div class="loading-dot"></div>
+                  </div>
+                </span>
+                {{{ markdownToHtml artist_desc artist_wiki_info}}}
               </div>
             </div>
             <div class="clearfix"></div>
