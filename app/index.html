@@ -18,6 +18,7 @@
     <script src="bower_components/modernizr/modernizr.js"></script>
     <!-- endbuild -->
     <link href='https://fonts.googleapis.com/css?family=Londrina+Outline|Ubuntu:400,500|Ubuntu+Condensed|Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   </head>
   <body>
     <!--[if lt IE 10]>
@@ -170,6 +171,7 @@
     <script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js"></script>
     <script src="bower_components/handlebars/handlebars.js"></script>
     <script src="bower_components/markdown-js/dist/markdown.js"></script>
+    <script src="bower_components/underscore/underscore.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -186,10 +188,12 @@
 
     <!-- build:js({app,.tmp}) scripts/main.js -->
     <script src="scripts/defiant.js"></script>
+    <script src="scripts/require.js"></script>
+    <script src="scripts/api.js"></script>
+    <script src="scripts/bot.js"></script>
+
     <script type="text/javascript" language="javascript" src="json_lookup/artist_lookup.json"></script> 
     <script type="text/javascript" language="javascript" src="json_lookup/batsu.json"></script> 
-
-
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
 
@@ -199,26 +203,26 @@
         <li class="list-group-item text-left artist-li"> 
           <div class="visible-xs">
           	<div class="boxer">
-				<div class="box-row">
-					<div class="box box-image">
-						{{#if image_url}}
-              				<img class="img-thumbnail img-circle" src="{{image_url}}">
-              			{{else}}
-              				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
-              			{{/if}}
-					</div>
-					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
-						<label class="celeb-name"> {{artist_name}} </label> 
-					</div>
-					<div class="box box-collapse" data-toggle="collapse" data-target="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
-						<span class="celeb-more-info">
-	                    	<a  type="button" >
-	                    		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-	                    	</a>
-	                  	</span>
-					</div>
-				</div>
-			</div>
+      				<div class="box-row">
+      					<div class="box box-image">
+      						{{#if image_url}}
+                    				<img class="img-thumbnail img-circle" src="{{image_url}}">
+                    			{{else}}
+                    				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
+                    			{{/if}}
+      					</div>
+      					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+      						<label class="celeb-name"> {{artist_name}} </label> 
+      					</div>
+      					<div class="box box-collapse" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+      						<span class="celeb-more-info">
+                  	<a  type="button" >
+                  		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+                  	</a>
+                	</span>
+      					</div>
+      				</div>
+      			</div>
             <div class="collapse" id="collapse_{{artist_id}}">
               <div class="more-info">
                 {{{ markdownToHtml artist_desc}}}

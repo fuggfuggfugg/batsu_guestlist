@@ -5,15 +5,14 @@ $(function(){
 	artists_lookup_snapshot = null;
 	artists_by_batsu_snapshot = Defiant.getSnapshot(artists_by_batsu);
 	artists_lookup_snapshot = Defiant.getSnapshot(artists_lookup);
-	
-
-	Handlebars.registerHelper("markdownToHtml", function(text) {
-		return markdown.toHTML(text);		
-	});
+	artists_wiki_lookup = null;
 
 	// update count and header name
 	// draw all artist
 	reloadList = function(){
+		console.log("artists_wiki_lookup");
+		console.log(artists_wiki_lookup);
+
 		btn =  $("#js-game-selection-btn");
 		loadSelectionOption = btn.attr("data-selection");
 
@@ -62,8 +61,7 @@ $(function(){
 		}
 	}
 
-	// first time load
-	reloadList();
+
 
 	// handle dropdown changed	
 	$(".js-game-selection-menu li a").on("click", function(e){
@@ -78,6 +76,32 @@ $(function(){
 		reloadList();
 
 	});
+
+	Handlebars.registerHelper("markdownToHtml", function(text) {
+		return markdown.toHTML(text);		
+	});
+	
+
+	function ajax1(){
+		wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&titles=";
+		//Masatoshi_Hamada%7CAgnes_Chan
+		buildString = JSON.search(artists_lookup_snapshot, "//artist_wiki_info").filter(Boolean).join("%7C");
+
+		wiki_lookup += buildString;
+
+		return $.ajax({
+			url:wiki_lookup,
+			dataType: 'jsonp'
+		});
+	}
+
+	$.when( ajax1()).done(function(a1){
+		artists_wiki_lookup = Defiant.getSnapshot( a1.query.pages);
+		// first time load
+		reloadList();
+	});
+
+	
 
 
 

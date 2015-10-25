@@ -46,3 +46,24 @@ http://mygakiblog.blogspot.com/
 https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exintro=&explaintext=&inprop=url&titles=Masatoshi_Hamada
 https://stackoverflow.com/questions/8555320/is-there-a-clean-wikipedia-api-just-for-retrieve-content-summary
 https://en.wikipedia.org/wiki/Special:ApiSandbox#action=query&prop=extracts|info&format=json&exintro=&explaintext=&inprop=url&titles=Masatoshi_Hamada
+
+https://stackoverflow.com/questions/3709597/wait-until-all-jquery-ajax-requests-are-done
+
+
+var mwjs = MediaWikiJS({baseURL: 'https://en.wikipedia.org', apiPath: '/w/api.php'});
+mwjs.send({
+   action: 'query', 
+   prop: 'extracts|info', 
+   format: 'json',
+   exsentences:4,
+   exlimit:'max',
+   exintro:'',
+   explaintext:'',
+   inprop:'url',
+   pageids: '2233913|21529550|35216335|36097029|2590542|2303220|17182565|14490434|3315152|14742810|1691144|45469877|1024054|1932236|38981051|17673013|22599999|45667826|12925202|36340083|3696621|2747684|26987842|4685657|26741285|4424576|7193278|19662294|24665533|47968026|16706483|9834906|20273201|12387170|296879|1448035|174147|13594784|22382187|7541034|41865031|2793564|37713149|12866371|1367269|1845225|11842920|43873550|9981220|7396866|38174078|21620769|38947771|47922518|2793564|40987357|13209546|1033492|33415670|26504249|4047051|2347647|40410221|2882926|3023093|5306927|33496343|35632215|4272940|15700739|47551192|9352552|825213|1989037|14373561|33415670|47528061|4933332|41899251|39492436|21251363|11341280|27666129|21989882|1101058|22876754|5321723|46536196|4609483|2035031|1225292|1561716|2318951|8109224|40410221|2377157'
+
+}, function (data) {
+    var pages = data.query.pages;
+    console.log(pages);
+});
+
