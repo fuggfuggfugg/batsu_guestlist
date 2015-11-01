@@ -18,12 +18,12 @@
             				<img class="img-thumbnail img-circle" src="http://i.imgur.com/RZAvkaD.png">
             			{{/if}}
       					</div>
-      					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+      					<a class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
       						<label class="celeb-name"> {{artist_name}} </label> 
-      					</div>
-      					<div class="box box-collapse" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
+      					</a>
+      					<div class="box box-collapse" >
       						<span class="celeb-more-info">
-                  	<a  type="button" >
+                  	<a    data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
                   		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
                   	</a>
                 	</span>
