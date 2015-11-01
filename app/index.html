@@ -17,7 +17,7 @@
     <!-- build:js scripts/vendor/modernizr.js -->
     <script src="bower_components/modernizr/modernizr.js"></script>
     <!-- endbuild -->
-    <link href='https://fonts.googleapis.com/css?family=Londrina+Outline|Ubuntu:400,500|Ubuntu+Condensed|Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Londrina+Outline|Ubuntu:400,700,700italic,400italic|Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   </head>
   <body>
@@ -135,7 +135,16 @@
       </div>
     </div>
     <div class="container user-list-container">
-      
+      <div class="alert alert-info alert-dismissible fade in" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        
+        <p> Hi there, Thanks for visiting. This is just a side project I work on this myself mostly on the weekends. The list is still incomplete. I'm trying my best.</p>
+        <p> <b>Update: 31st Oct </b>- Successfully managed to use wiki api to get intro text. fuck ye!</p>
+        <button type="button" class=" btn btn-primary pull-right" data-dismiss="alert" aria-label="Close" style="margin-top:10px;margin-right: -15px;">
+          <span aria-hidden="true">Gotcha!</span>
+        </button>
+        <div class="clearfix"></div>
+      </div>
       <ul class="list-group" id="artist-ul">
         <li class="list-group-item title"> 
           <span id="artist-li-title"> All Batsu Games </span>
@@ -204,7 +213,7 @@
       						{{#if image_url}}
             				<img class="img-thumbnail img-circle" src="{{image_url}}">
             			{{else}}
-            				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
+            				<img class="img-thumbnail img-circle" src="http://i.imgur.com/RZAvkaD.png">
             			{{/if}}
       					</div>
       					<div class="box box-name" data-toggle="collapse" data-target="#collapse_{{artist_id}}" href="#collapse_{{artist_id}}" aria-expanded="false" aria-controls="#collapse_{{artist_id}}" >
@@ -221,14 +230,6 @@
       			</div>
             <div class="collapse" id="collapse_{{artist_id}}">
               <div class="more-info">
-                <span class="wikipedia-info" id="{{artist_wiki_info}}">
-                  <div class="loading">
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                  </div>
-                </span>
                 {{{ markdownToHtml artist_desc artist_wiki_info}}}
               </div>
             </div>
@@ -238,7 +239,7 @@
             	{{#if image_url}}
       				<img class="img-thumbnail img-circle" src="{{image_url}}">
       			{{else}}
-      				<img class="img-thumbnail img-circle" src="https://i.imgur.com/K4fsPuD.png">
+      				<img class="img-thumbnail img-circle" src="http://i.imgur.com/RZAvkaD.png">
       			{{/if}}
             </div>
             <div class="col-xs-10">
@@ -246,14 +247,7 @@
                 <label class="celeb-name"> {{artist_name}} </label>   
               </div>
               <div class="more-info">
-                <span class="wikipedia-info" id="{{artist_wiki_info}}">
-                  <div class="loading">
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                    <div class="loading-dot"></div>
-                  </div>
-                </span>
+               
                 {{{ markdownToHtml artist_desc artist_wiki_info}}}
               </div>
             </div>

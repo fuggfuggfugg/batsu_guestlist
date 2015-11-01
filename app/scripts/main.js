@@ -5,7 +5,7 @@ $(function(){
 	artists_lookup_snapshot = null;
 	artists_by_batsu_snapshot = Defiant.getSnapshot(artists_by_batsu);
 	artists_lookup_snapshot = Defiant.getSnapshot(artists_lookup);
-	artists_wiki_lookup = null;
+	artists_wiki_lookup = {};
 
 	// update count and header name
 	// draw all artist
@@ -53,8 +53,6 @@ $(function(){
 				$("#artist-count").html(guestList.length + " Guests")
 
 				
-			}else{
-				alert("list is empty")
 			}
 		}
 	}
@@ -63,41 +61,81 @@ $(function(){
 
 	// handle dropdown changed	
 	$(".js-game-selection-menu li a").on("click", function(e){
+		if ($(this).parent().hasClass("disabled")) {
+			return false;
+		};
+
 		// currentTarget = $(e.currentTarget);
 		btn =  $("#js-game-selection-btn");
 		btn.html($(this).text() + ' <span class="caret"></span>');
 		btn.val($(this).data('value'));
 		btn.attr("data-selection", $(this).attr("data-selection"));
 
+
 		// reload-list
 		reloadList();
 	});
 
 	Handlebars.registerHelper("markdownToHtml", function(text, artist_wiki_id) {
-		wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&pageids="
+		var htmlWikiMarkup = ""
 
-		if (parseInt(artist_wiki_id) > 0 ){
-			// first find in lookup, if found cool else do a get and push it
-			$.ajax({
-				url:wiki_lookup + artist_wiki_id,
-				dataType: 'jsonp',
-				success: function(results){
-					// update textbox
-					el = $("#"+artist_wiki_id);
-					el.find(".loading").hide();
-					wikiText = results.query.pages[artist_wiki_id].extract
-					wikiAnchor = $("<a href='" + results.query.pages[artist_wiki_id].fullurl + "'>Wikipedia.</a>")
-					el.append(wikiText);
-					el.append(wikiAnchor);
-				}
-			});
+		if ( artist_wiki_id != "" ) {
+			wikiObj = artists_wiki_lookup[artist_wiki_id]
+			htmlWikiMarkup =  "<div class='wiki-info'>" + wikiObj.extract + "<a href='" + wikiObj.fullurl + "'> Wikipedia <a/>" + "</div>";	
 		}
 		
-		return markdown.toHTML(text);		
+
+		htmlMoreInfoMarkup =  "<div class='til-info'>" +  markdown.toHTML(text) + "</div>";
+
+		return new Handlebars.SafeString(htmlWikiMarkup + htmlMoreInfoMarkup);
 		
 
 	});
 	
+
+	function split(a, n) {
+	    var len = a.length,out = [], i = 0;
+	    while (i < len) {
+	        var size = Math.ceil((len - i) / n--);
+	        out.push(a.slice(i, i + size));
+	        i += size;
+	    }
+	    return out;
+	}
+
+	// split(buildString, Math.ceil(buildString.length/50) )
+	function deferredLoad(){
+		
+		buildStringArr = JSON.search(artists_lookup_snapshot, "//artist_wiki_info").filter(Boolean)
+		var deferreds = [];
+
+		// divising into equal parts since only 50 rows are the limit that is returned from the api
+		var splitBuildStr = split(buildStringArr, Math.ceil(buildStringArr.length/20) );
+
+		for (var i = 0; i < splitBuildStr.length ; i++) {		
+			buildString = splitBuildStr[i].join("|");
+			var wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&inprop=url&pageids="
+			wiki_lookup += buildString;
+			
+			
+			def =  $.ajax({
+				url: wiki_lookup,
+				dataType: 'jsonp',
+				success: function(results){
+					$.extend(artists_wiki_lookup, results.query.pages);
+				}
+			});
+
+			deferreds.push(def);
+		};
+
+		return deferreds;
+	}
+
+	var deferreds = deferredLoad()
+	$.when.apply(null, deferreds).done(function(){
+		reloadList();
+	});
 
 	// function ajax1(){
 	// 	wiki_lookup = "https://en.wikipedia.org/w/api.php?action=query&prop=extracts|info&format=json&exsentences=1&exlimit=max&exintro=&explaintext=&inprop=url&titles=";
@@ -119,7 +157,7 @@ $(function(){
 	// });
 
 	// first time load
-	reloadList();	
+		
 
 
 
