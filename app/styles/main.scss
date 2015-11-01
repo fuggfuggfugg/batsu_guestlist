@@ -169,6 +169,14 @@ body {
 
 }
 
+.clear-button-styling{
+  outline: 0;
+ border: none;
+ 
+ /* Add some extra padding around the button, for larger fingered people */
+ padding: 1px 10px 1px 20px;
+ background: none;
+}
 
   .visible-sm.visible-xs{
     position: relative;
