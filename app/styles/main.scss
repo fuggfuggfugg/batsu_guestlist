@@ -283,6 +283,10 @@ body {
   }
 }
 
+.alert,
+.btn{
+  border-radius: 2px;
+}
 
 @-webkit-keyframes loadingFade {
     0% { opacity: 0; }
